@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<hmtl>
+  <head>
+	<title> Teste Manchete</title>
+  <head>
+<body>
+<h1> Uma manchete em H1</h1>
+<h2> Segunda manchete em H2</h2>
+<h3> Terceira manchete em H3</h3>
+</body>
+</html>
